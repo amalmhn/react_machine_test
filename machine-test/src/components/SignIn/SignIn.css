@@ -1,0 +1,15 @@
+.logo-row{
+    margin-top: 5% !important;
+}
+.sign-in-section{
+    margin-top: 20% !important;
+}
+
+@media only screen and (max-width: 767px) {
+    .signInPic-section {
+      display: none;
+    }
+    .signIn-text{
+        text-align: center;
+    }
+  }

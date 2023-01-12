@@ -1,0 +1,30 @@
+.country-section{
+    border-style: solid;
+    border-color: black;
+    border-width: thin;
+    padding: 50px;
+    width: 49% !important;
+    margin-left: 1%;
+    margin-top: 1% !important;
+}
+.flag-img{
+    width: 25%;
+    height: 25%;
+}
+.county-details{
+    margin-left: 15%;
+}
+.spinner-grow{
+    margin-left: 50%;
+    margin-top: 25%;
+}
+
+@media only screen and (max-width: 767px) {
+    .country-section{
+        border-style: solid;
+        border-color: black;
+        border-width: thin;
+        padding: 50px;
+        width: 98% !important;
+    }
+  }
